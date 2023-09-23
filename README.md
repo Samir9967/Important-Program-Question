@@ -7,3 +7,5 @@
 6. Write a program to read the numbers until -1 is entered also counts negative, positive, and zeros entered by users
 7. Write a program to check a year is a leap year or not.
 8. Write a program to swap two number with and without using third variable.
+9. Write a program to find Nth number of fibonacci.
+10. Counting occurance:  eg: 1234356 (count digit 3 ).
